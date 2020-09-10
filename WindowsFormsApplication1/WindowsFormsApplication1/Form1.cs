@@ -70,12 +70,12 @@ namespace WindowsFormsApplication1
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            webBrowser1.GoForward();//GoForward//
+            webBrowser1.GoForward();  //GoForward//
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            webBrowser1.GoBack(); //GoBack///
+            webBrowser1.GoBack();     //GoBack///
         }
         private void pictureBox4_Click(object sender, EventArgs e)
         {
